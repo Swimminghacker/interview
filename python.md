@@ -34,3 +34,12 @@
 
 14.--name--和--main--的含义
 
+15.装饰器的理解：https://taizilongxu.gitbooks.io/stackoverflow-about-python/content/3/README.html
+
+以及面对切面编程的概念：AOP
+
+16.一位大神总结出来的python面试内容详细介绍，除了python之外还有其他程序员面试的介绍：
+
+https://github.com/taizilongxu/interview_python
+
+17.15道比较典型的题目：http://codingpy.com/article/essential-python-interview-questions/
